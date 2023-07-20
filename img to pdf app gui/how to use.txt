@@ -1,0 +1,5 @@
+1.first you need enter the pdf name for the in the input box
+2.press open button which open the file select box
+3.select the multiple images you need to convert into images
+4.after pdf created you can message will show
+5.pdf will be saved in  the present directory of python program file 
